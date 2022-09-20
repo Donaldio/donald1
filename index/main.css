@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(160, 235, 192);
+}
+body h1 {
+  padding-left: 350px;
+  font-family: Arial;
+}
+body h3 {
+  margin-top: 0%;
+  font-size: 90px;
+  
+  position: relative;
+  padding-left: 480px;
+}
+body h2 {
+  padding-left: 325px;
+  font-family: arial;
+  display: flex;
+  float: left;
+  top: 0%;
+  font-size: 29px;
+}
+body img {
+  position: relative;
+  left: 314px;
+  border: 45px solid whitesmoke;
+  border-radius: 5px;
+}/*# sourceMappingURL=main.css.map */
